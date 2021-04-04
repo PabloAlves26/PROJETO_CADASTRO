@@ -1,0 +1,29 @@
+
+        body {
+            background-color: #DCDCDC;
+            margin-left: 200px;
+            margin-right: 565px;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            font-weight: bolder;
+        }
+        .enviar {
+            background-color: black;
+            color: white;
+            margin-left: 115px;
+            font-size: 15px;
+            margin-top: 15px;
+        }
+    .formulario {
+        background-image: linear-gradient(to bottom, white, black);
+        border-style: double black;
+    }
+    h4 {
+        font-style: bold;
+    }
+    .enviar:hover {
+        box-shadow: 3px 0px 3px 3px blue;
+    }
